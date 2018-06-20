@@ -1,1 +1,1 @@
-# lumise
+# lumisetheme
